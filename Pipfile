@@ -9,6 +9,8 @@ gtts = "*"
 python-dotenv = "*"
 moviepy = "==1.0.3"
 elevenlabs = "*"
+tweepy = "*"
+standard-imghdr = "*"
 
 [dev-packages]
 
