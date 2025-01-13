@@ -2,8 +2,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,dotenv,pycharm,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,macos,dotenv,pycharm,python
 
+gameplay
+
 ### dotenv ###
 .env
+
 
 ### macOS ###
 # General
